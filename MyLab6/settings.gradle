@@ -1,0 +1,6 @@
+rootProject.name = "MyLab6"
+include ':app'
+include ':notebook'
+include ':filestorage'
+include ':preferences'
+include ':room'

@@ -1,0 +1,6 @@
+rootProject.name = "MyLab2"
+include ':app'
+include ':mynotification'
+include ':mytoast1'
+include ':dialougebox'
+include ':mainapp'

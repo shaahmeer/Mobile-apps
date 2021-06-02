@@ -1,0 +1,7 @@
+rootProject.name = "MyLab4"
+include ':app'
+include ':thread'
+include ':loadingmanager'
+include ':loop'
+include ':managework'
+include ':thread2'
